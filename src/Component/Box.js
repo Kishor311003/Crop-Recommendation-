@@ -6,9 +6,7 @@ function Box(props){
         if(props.name==="Crop Recomendation"){
             navigate("/rec")
         }
-        if(props.name==="Crop Production"){
-            navigate("/kishor")
-        }
+        
        
     }
     return(
