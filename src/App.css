@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  display: block;
+  background-color: rgb(140, 248, 93);
+}
+
+
+/* .App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+   padding: 50px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
